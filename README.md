@@ -3,7 +3,7 @@
 Planning applications that PlanIndex first saw in the last 30 days, one
 CSV per local planning authority, refreshed every night.
 
-Last updated 13 November 2026: 19232 applications across 153 councils.
+Last updated 14 November 2026: 28395 applications across 153 councils.
 
 - `councils.csv` lists every council with a file and how many rows it holds.
 - `councils/<council>.csv` holds that council's applications.
