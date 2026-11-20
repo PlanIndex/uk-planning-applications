@@ -1,37 +1,37 @@
 council,slug,applications,file
-"Aberdeen City",aberdeen-city,93,councils/aberdeen-city.csv
-Aberdeenshire,aberdeenshire,1847,councils/aberdeenshire.csv
+"Aberdeen City",aberdeen-city,92,councils/aberdeen-city.csv
+Aberdeenshire,aberdeenshire,1850,councils/aberdeenshire.csv
 Adur,adur,178,councils/adur.csv
 "Amber Valley",amber-valley,525,councils/amber-valley.csv
-Angus,angus,44,councils/angus.csv
+Angus,angus,1469,councils/angus.csv
 "Antrim and Newtownabbey",antrim-and-newtownabbey,388,councils/antrim-and-newtownabbey.csv
 "Ards and North Down",ards-and-north-down,300,councils/ards-and-north-down.csv
 "Argyll and Bute",argyll-and-bute,21,councils/argyll-and-bute.csv
-Arun,arun,978,councils/arun.csv
-Barnet,barnet,759,councils/barnet.csv
-Basildon,basildon,99,councils/basildon.csv
+Arun,arun,975,councils/arun.csv
+Barnet,barnet,756,councils/barnet.csv
+Basildon,basildon,770,councils/basildon.csv
 "Basingstoke and Deane",basingstoke-and-deane,1163,councils/basingstoke-and-deane.csv
 Bassetlaw,bassetlaw,538,councils/bassetlaw.csv
 "Bath and North East Somerset",bath-and-north-east-somerset,2169,councils/bath-and-north-east-somerset.csv
-Bedford,bedford,168,councils/bedford.csv
+Bedford,bedford,169,councils/bedford.csv
 Belfast,belfast,589,councils/belfast.csv
-Bexley,bexley,155,councils/bexley.csv
-Blaby,blaby,598,councils/blaby.csv
+Bexley,bexley,935,councils/bexley.csv
+Blaby,blaby,585,councils/blaby.csv
 Blackpool,blackpool,280,councils/blackpool.csv
 Bolsover,bolsover,430,councils/bolsover.csv
-Bolton,bolton,150,councils/bolton.csv
+Bolton,bolton,922,councils/bolton.csv
 "Bournemouth, Christchurch and Poole",bournemouth-christchurch-and-poole,1818,councils/bournemouth-christchurch-and-poole.csv
 "Bracknell Forest",bracknell-forest,1776,councils/bracknell-forest.csv
 Brent,brent,220,councils/brent.csv
-Brentwood,brentwood,113,councils/brentwood.csv
+Brentwood,brentwood,116,councils/brentwood.csv
 Bridgend,bridgend,551,councils/bridgend.csv
 "Bristol, City of",bristol-city-of,2,councils/bristol-city-of.csv
 Broadland,broadland,1943,councils/broadland.csv
 Bromley,bromley,2199,councils/bromley.csv
 Broxbourne,broxbourne,562,councils/broxbourne.csv
-Broxtowe,broxtowe,297,councils/broxtowe.csv
-Buckinghamshire,buckinghamshire,1755,councils/buckinghamshire.csv
-Bury,bury,614,councils/bury.csv
+Broxtowe,broxtowe,296,councils/broxtowe.csv
+Buckinghamshire,buckinghamshire,1730,councils/buckinghamshire.csv
+Bury,bury,609,councils/bury.csv
 Caerphilly,caerphilly,463,councils/caerphilly.csv
 Calderdale,calderdale,2008,councils/calderdale.csv
 Cambridge,cambridge,1646,councils/cambridge.csv
@@ -41,47 +41,47 @@ Canterbury,canterbury,1238,councils/canterbury.csv
 "Causeway Coast and Glens",causeway-coast-and-glens,375,councils/causeway-coast-and-glens.csv
 "Central Bedfordshire",central-bedfordshire,1678,councils/central-bedfordshire.csv
 Charnwood,charnwood,1537,councils/charnwood.csv
-Chelmsford,chelmsford,186,councils/chelmsford.csv
+Chelmsford,chelmsford,178,councils/chelmsford.csv
 Cheltenham,cheltenham,638,councils/cheltenham.csv
 Cherwell,cherwell,995,councils/cherwell.csv
-Chesterfield,chesterfield,252,councils/chesterfield.csv
+Chesterfield,chesterfield,247,councils/chesterfield.csv
 Chichester,chichester,33,councils/chichester.csv
-Chorley,chorley,1800,councils/chorley.csv
+Chorley,chorley,1802,councils/chorley.csv
 "City of Edinburgh",city-of-edinburgh,722,councils/city-of-edinburgh.csv
-"City of London",city-of-london,968,councils/city-of-london.csv
+"City of London",city-of-london,1483,councils/city-of-london.csv
 Clackmannanshire,clackmannanshire,137,councils/clackmannanshire.csv
 Colchester,colchester,569,councils/colchester.csv
 Conwy,conwy,923,councils/conwy.csv
-Cornwall,cornwall,940,councils/cornwall.csv
-"County Durham",county-durham,1670,councils/county-durham.csv
+Cornwall,cornwall,2595,councils/cornwall.csv
+"County Durham",county-durham,1663,councils/county-durham.csv
 Crawley,crawley,49,councils/crawley.csv
-Croydon,croydon,236,councils/croydon.csv
+Croydon,croydon,238,councils/croydon.csv
 Cumberland,cumberland,3924,councils/cumberland.csv
 Dacorum,dacorum,1124,councils/dacorum.csv
 Darlington,darlington,255,councils/darlington.csv
 Dartford,dartford,31,councils/dartford.csv
-Derby,derby,983,councils/derby.csv
+Derby,derby,986,councils/derby.csv
 Doncaster,doncaster,2823,councils/doncaster.csv
 Dorset,dorset,1906,councils/dorset.csv
 Dover,dover,723,councils/dover.csv
 "Dumfries and Galloway",dumfries-and-galloway,1016,councils/dumfries-and-galloway.csv
 "Dundee City",dundee-city,283,councils/dundee-city.csv
-Ealing,ealing,184,councils/ealing.csv
+Ealing,ealing,178,councils/ealing.csv
 "East Ayrshire",east-ayrshire,127,councils/east-ayrshire.csv
 "East Cambridgeshire",east-cambridgeshire,1188,councils/east-cambridgeshire.csv
 "East Devon",east-devon,433,councils/east-devon.csv
-"East Dunbartonshire",east-dunbartonshire,798,councils/east-dunbartonshire.csv
-"East Hertfordshire",east-hertfordshire,208,councils/east-hertfordshire.csv
+"East Dunbartonshire",east-dunbartonshire,802,councils/east-dunbartonshire.csv
+"East Hertfordshire",east-hertfordshire,193,councils/east-hertfordshire.csv
 "East Lindsey",east-lindsey,1936,councils/east-lindsey.csv
-"East Lothian",east-lothian,76,councils/east-lothian.csv
-"East Riding of Yorkshire",east-riding-of-yorkshire,1411,councils/east-riding-of-yorkshire.csv
+"East Lothian",east-lothian,1131,councils/east-lothian.csv
+"East Riding of Yorkshire",east-riding-of-yorkshire,2058,councils/east-riding-of-yorkshire.csv
 "East Staffordshire",east-staffordshire,536,councils/east-staffordshire.csv
 Eastbourne,eastbourne,495,councils/eastbourne.csv
 Eastleigh,eastleigh,795,councils/eastleigh.csv
 "Ebbsfleet Development Corporation",ebbsfleet-development-corporation,635,councils/ebbsfleet-development-corporation.csv
-Enfield,enfield,1936,councils/enfield.csv
+Enfield,enfield,1932,councils/enfield.csv
 "Epping Forest",epping-forest,1082,councils/epping-forest.csv
-"Epsom and Ewell",epsom-and-ewell,3584,councils/epsom-and-ewell.csv
+"Epsom and Ewell",epsom-and-ewell,3591,councils/epsom-and-ewell.csv
 Erewash,erewash,1751,councils/erewash.csv
 Exeter,exeter,1785,councils/exeter.csv
 Falkirk,falkirk,399,councils/falkirk.csv
@@ -90,185 +90,188 @@ Fenland,fenland,204,councils/fenland.csv
 Flintshire,flintshire,566,councils/flintshire.csv
 "Folkestone and Hythe",folkestone-and-hythe,667,councils/folkestone-and-hythe.csv
 "Forest of Dean",forest-of-dean,640,councils/forest-of-dean.csv
-Gateshead,gateshead,487,councils/gateshead.csv
+Gateshead,gateshead,486,councils/gateshead.csv
 Gedling,gedling,542,councils/gedling.csv
-"Glasgow City",glasgow-city,785,councils/glasgow-city.csv
-Gloucester,gloucester,164,councils/gloucester.csv
-Gosport,gosport,234,councils/gosport.csv
-Gravesham,gravesham,87,councils/gravesham.csv
-"Great Yarmouth",great-yarmouth,341,councils/great-yarmouth.csv
-Greenwich,greenwich,851,councils/greenwich.csv
-Guildford,guildford,1238,councils/guildford.csv
-Halton,halton,476,councils/halton.csv
-Harborough,harborough,987,councils/harborough.csv
-Harlow,harlow,38,councils/harlow.csv
-Hart,hart,118,councils/hart.csv
-Hastings,hastings,50,councils/hastings.csv
+"Glasgow City",glasgow-city,791,councils/glasgow-city.csv
+Gloucester,gloucester,165,councils/gloucester.csv
+Gosport,gosport,231,councils/gosport.csv
+Gravesham,gravesham,82,councils/gravesham.csv
+"Great Yarmouth",great-yarmouth,337,councils/great-yarmouth.csv
+Greenwich,greenwich,871,councils/greenwich.csv
+Guildford,guildford,1467,councils/guildford.csv
+Halton,halton,490,councils/halton.csv
+Harborough,harborough,994,councils/harborough.csv
+Harlow,harlow,43,councils/harlow.csv
+Hart,hart,2026,councils/hart.csv
+Hastings,hastings,51,councils/hastings.csv
 Havant,havant,548,councils/havant.csv
-Havering,havering,3484,councils/havering.csv
-Hertsmere,hertsmere,1031,councils/hertsmere.csv
+Havering,havering,3476,councils/havering.csv
+Hertsmere,hertsmere,1024,councils/hertsmere.csv
 Highland,highland,928,councils/highland.csv
-Hillingdon,hillingdon,673,councils/hillingdon.csv
+Hillingdon,hillingdon,675,councils/hillingdon.csv
 "Hinckley and Bosworth",hinckley-and-bosworth,87,councils/hinckley-and-bosworth.csv
-Hounslow,hounslow,502,councils/hounslow.csv
-Huntingdonshire,huntingdonshire,166,councils/huntingdonshire.csv
+Hounslow,hounslow,603,councils/hounslow.csv
+Huntingdonshire,huntingdonshire,277,councils/huntingdonshire.csv
 Hyndburn,hyndburn,128,councils/hyndburn.csv
 Inverclyde,inverclyde,117,councils/inverclyde.csv
 Ipswich,ipswich,1692,councils/ipswich.csv
 "Isle of Anglesey",isle-of-anglesey,2641,councils/isle-of-anglesey.csv
-"Isle of Wight",isle-of-wight,139,councils/isle-of-wight.csv
+"Isle of Wight",isle-of-wight,138,councils/isle-of-wight.csv
 "Isles of Scilly",isles-of-scilly,20,councils/isles-of-scilly.csv
-"King’s Lynn and West Norfolk",kings-lynn-and-west-norfolk,640,councils/kings-lynn-and-west-norfolk.csv
-"Kingston upon Thames",kingston-upon-thames,180,councils/kingston-upon-thames.csv
+Islington,islington,1490,councils/islington.csv
+"King’s Lynn and West Norfolk",kings-lynn-and-west-norfolk,631,councils/kings-lynn-and-west-norfolk.csv
+"Kingston upon Thames",kingston-upon-thames,2704,councils/kingston-upon-thames.csv
 Kirklees,kirklees,1234,councils/kirklees.csv
-Knowsley,knowsley,33,councils/knowsley.csv
+Knowsley,knowsley,1524,councils/knowsley.csv
 "Lake District National Park",lake-district-national-park,527,councils/lake-district-national-park.csv
-Lambeth,lambeth,1353,councils/lambeth.csv
+Lambeth,lambeth,1352,councils/lambeth.csv
 Lancaster,lancaster,753,councils/lancaster.csv
-Leeds,leeds,402,councils/leeds.csv
+Leeds,leeds,624,councils/leeds.csv
 Lewes,lewes,427,councils/lewes.csv
-Lewisham,lewisham,3035,councils/lewisham.csv
-Lichfield,lichfield,1755,councils/lichfield.csv
-Lincoln,lincoln,477,councils/lincoln.csv
+Lewisham,lewisham,3033,councils/lewisham.csv
+Lichfield,lichfield,1752,councils/lichfield.csv
+Lincoln,lincoln,474,councils/lincoln.csv
 "Lisburn and Castlereagh",lisburn-and-castlereagh,233,councils/lisburn-and-castlereagh.csv
-Luton,luton,685,councils/luton.csv
-Maidstone,maidstone,191,councils/maidstone.csv
-Maldon,maldon,55,councils/maldon.csv
+Luton,luton,682,councils/luton.csv
+Maidstone,maidstone,185,councils/maidstone.csv
+Maldon,maldon,53,councils/maldon.csv
 "Malvern Hills",malvern-hills,743,councils/malvern-hills.csv
-Mansfield,mansfield,766,councils/mansfield.csv
-Medway,medway,165,councils/medway.csv
-Melton,melton,1096,councils/melton.csv
+Mansfield,mansfield,768,councils/mansfield.csv
+Medway,medway,164,councils/medway.csv
+Melton,melton,1100,councils/melton.csv
 "Merthyr Tydfil",merthyr-tydfil,232,councils/merthyr-tydfil.csv
 "Mid and East Antrim",mid-and-east-antrim,294,councils/mid-and-east-antrim.csv
 "Mid Devon",mid-devon,2357,councils/mid-devon.csv
-"Mid Sussex",mid-sussex,952,councils/mid-sussex.csv
-"Mid Ulster",mid-ulster,23,councils/mid-ulster.csv
+"Mid Sussex",mid-sussex,943,councils/mid-sussex.csv
+"Mid Ulster",mid-ulster,376,councils/mid-ulster.csv
 Midlothian,midlothian,1310,councils/midlothian.csv
 "Mole Valley",mole-valley,1232,councils/mole-valley.csv
-Monmouthshire,monmouthshire,673,councils/monmouthshire.csv
+Monmouthshire,monmouthshire,674,councils/monmouthshire.csv
 Moray,moray,168,councils/moray.csv
 "Na h-Eileanan Siar",na-h-eileanan-siar,8,councils/na-h-eileanan-siar.csv
 "Neath Port Talbot",neath-port-talbot,476,councils/neath-port-talbot.csv
-"New Forest",new-forest,4,councils/new-forest.csv
+"New Forest",new-forest,3,councils/new-forest.csv
 "New Forest National Park",new-forest-national-park,518,councils/new-forest-national-park.csv
-"Newark and Sherwood",newark-and-sherwood,1067,councils/newark-and-sherwood.csv
-Newcastle-under-Lyme,newcastle-under-lyme,4724,councils/newcastle-under-lyme.csv
-Newham,newham,922,councils/newham.csv
-Newport,newport,417,councils/newport.csv
+"Newark and Sherwood",newark-and-sherwood,1064,councils/newark-and-sherwood.csv
+Newcastle-under-Lyme,newcastle-under-lyme,4723,councils/newcastle-under-lyme.csv
+Newham,newham,918,councils/newham.csv
+Newport,newport,413,councils/newport.csv
 "Newry, Mourne and Down",newry-mourne-and-down,215,councils/newry-mourne-and-down.csv
 "North Ayrshire",north-ayrshire,329,councils/north-ayrshire.csv
-"North East Lincolnshire",north-east-lincolnshire,75,councils/north-east-lincolnshire.csv
-"North Hertfordshire",north-hertfordshire,1116,councils/north-hertfordshire.csv
+"North East Lincolnshire",north-east-lincolnshire,2514,councils/north-east-lincolnshire.csv
+"North Hertfordshire",north-hertfordshire,1107,councils/north-hertfordshire.csv
 "North Kesteven",north-kesteven,725,councils/north-kesteven.csv
-"North Lanarkshire",north-lanarkshire,217,councils/north-lanarkshire.csv
-"North Norfolk",north-norfolk,152,councils/north-norfolk.csv
+"North Lanarkshire",north-lanarkshire,211,councils/north-lanarkshire.csv
+"North Norfolk",north-norfolk,2475,councils/north-norfolk.csv
 "North Northamptonshire",north-northamptonshire,229,councils/north-northamptonshire.csv
-"North Somerset",north-somerset,1099,councils/north-somerset.csv
-"North Tyneside",north-tyneside,389,councils/north-tyneside.csv
-"North Warwickshire",north-warwickshire,1543,councils/north-warwickshire.csv
+"North Somerset",north-somerset,1087,councils/north-somerset.csv
+"North Tyneside",north-tyneside,397,councils/north-tyneside.csv
+"North Warwickshire",north-warwickshire,1546,councils/north-warwickshire.csv
 "North West Leicestershire",north-west-leicestershire,923,councils/north-west-leicestershire.csv
 "North York Moors National Park",north-york-moors-national-park,342,councils/north-york-moors-national-park.csv
-"North Yorkshire",north-yorkshire,472,councils/north-yorkshire.csv
-Northumberland,northumberland,745,councils/northumberland.csv
-Norwich,norwich,293,councils/norwich.csv
+"North Yorkshire",north-yorkshire,495,councils/north-yorkshire.csv
+Northumberland,northumberland,740,councils/northumberland.csv
+Norwich,norwich,268,councils/norwich.csv
 Nottingham,nottingham,1554,councils/nottingham.csv
 "Oadby and Wigston",oadby-and-wigston,222,councils/oadby-and-wigston.csv
-Oldham,oldham,639,councils/oldham.csv
-"Orkney Islands",orkney-islands,13,councils/orkney-islands.csv
-Oxford,oxford,154,councils/oxford.csv
+Oldham,oldham,637,councils/oldham.csv
+"Orkney Islands",orkney-islands,12,councils/orkney-islands.csv
+Oxford,oxford,2268,councils/oxford.csv
 "Peak District National Park",peak-district-national-park,187,councils/peak-district-national-park.csv
+Pembrokeshire,pembrokeshire,497,councils/pembrokeshire.csv
 Pendle,pendle,493,councils/pendle.csv
 "Perth and Kinross",perth-and-kinross,1039,councils/perth-and-kinross.csv
 Peterborough,peterborough,4774,councils/peterborough.csv
 Plymouth,plymouth,713,councils/plymouth.csv
-Powys,powys,2163,councils/powys.csv
+Powys,powys,2867,councils/powys.csv
 Reading,reading,660,councils/reading.csv
 Redbridge,redbridge,1574,councils/redbridge.csv
 "Redcar and Cleveland",redcar-and-cleveland,281,councils/redcar-and-cleveland.csv
-"Reigate and Banstead",reigate-and-banstead,2560,councils/reigate-and-banstead.csv
+"Reigate and Banstead",reigate-and-banstead,2562,councils/reigate-and-banstead.csv
 Renfrewshire,renfrewshire,317,councils/renfrewshire.csv
-"Rhondda Cynon Taf",rhondda-cynon-taf,70,councils/rhondda-cynon-taf.csv
+"Rhondda Cynon Taf",rhondda-cynon-taf,677,councils/rhondda-cynon-taf.csv
 Rochdale,rochdale,4224,councils/rochdale.csv
 Rochford,rochford,425,councils/rochford.csv
 Rossendale,rossendale,205,councils/rossendale.csv
-Runnymede,runnymede,890,councils/runnymede.csv
-Rushmoor,rushmoor,41,councils/rushmoor.csv
-Rutland,rutland,506,councils/rutland.csv
+Runnymede,runnymede,896,councils/runnymede.csv
+Rushmoor,rushmoor,40,councils/rushmoor.csv
+Rutland,rutland,502,councils/rutland.csv
 Salford,salford,801,councils/salford.csv
-"Scottish Borders",scottish-borders,1807,councils/scottish-borders.csv
+"Scottish Borders",scottish-borders,1803,councils/scottish-borders.csv
 Sefton,sefton,683,councils/sefton.csv
-Sevenoaks,sevenoaks,807,councils/sevenoaks.csv
+Sevenoaks,sevenoaks,802,councils/sevenoaks.csv
 Sheffield,sheffield,1851,councils/sheffield.csv
 "Shetland Islands",shetland-islands,16,councils/shetland-islands.csv
-Shropshire,shropshire,326,councils/shropshire.csv
-Solihull,solihull,2467,councils/solihull.csv
-"South Ayrshire",south-ayrshire,64,councils/south-ayrshire.csv
+Shropshire,shropshire,325,councils/shropshire.csv
+Solihull,solihull,2461,councils/solihull.csv
+"South Ayrshire",south-ayrshire,71,councils/south-ayrshire.csv
 "South Cambridgeshire",south-cambridgeshire,4116,councils/south-cambridgeshire.csv
 "South Derbyshire",south-derbyshire,477,councils/south-derbyshire.csv
-"South Downs National Park",south-downs-national-park,682,councils/south-downs-national-park.csv
-"South Holland",south-holland,403,councils/south-holland.csv
-"South Lanarkshire",south-lanarkshire,666,councils/south-lanarkshire.csv
+"South Downs National Park",south-downs-national-park,678,councils/south-downs-national-park.csv
+"South Holland",south-holland,407,councils/south-holland.csv
+"South Lanarkshire",south-lanarkshire,671,councils/south-lanarkshire.csv
 "South Ribble",south-ribble,383,councils/south-ribble.csv
-"South Staffordshire",south-staffordshire,622,councils/south-staffordshire.csv
-"South Tyneside",south-tyneside,545,councils/south-tyneside.csv
-Southampton,southampton,139,councils/southampton.csv
-Southend-on-Sea,southend-on-sea,967,councils/southend-on-sea.csv
-Southwark,southwark,285,councils/southwark.csv
-Spelthorne,spelthorne,618,councils/spelthorne.csv
+"South Staffordshire",south-staffordshire,619,councils/south-staffordshire.csv
+"South Tyneside",south-tyneside,548,councils/south-tyneside.csv
+Southampton,southampton,130,councils/southampton.csv
+Southend-on-Sea,southend-on-sea,973,councils/southend-on-sea.csv
+Southwark,southwark,295,councils/southwark.csv
+Spelthorne,spelthorne,613,councils/spelthorne.csv
 "St. Helens",st-helens,1325,councils/st-helens.csv
 Stafford,stafford,628,councils/stafford.csv
-Stevenage,stevenage,316,councils/stevenage.csv
-Stirling,stirling,74,councils/stirling.csv
-Stockport,stockport,965,councils/stockport.csv
+Stevenage,stevenage,318,councils/stevenage.csv
+Stirling,stirling,381,councils/stirling.csv
+Stockport,stockport,2609,councils/stockport.csv
 Stockton-on-Tees,stockton-on-tees,714,councils/stockton-on-tees.csv
-Stratford-on-Avon,stratford-on-avon,1570,councils/stratford-on-avon.csv
-Stroud,stroud,144,councils/stroud.csv
-Sunderland,sunderland,877,councils/sunderland.csv
-"Surrey Heath",surrey-heath,615,councils/surrey-heath.csv
-Sutton,sutton,1149,councils/sutton.csv
-Swale,swale,132,councils/swale.csv
+Stratford-on-Avon,stratford-on-avon,1702,councils/stratford-on-avon.csv
+Stroud,stroud,143,councils/stroud.csv
+Sunderland,sunderland,879,councils/sunderland.csv
+"Surrey Heath",surrey-heath,619,councils/surrey-heath.csv
+Sutton,sutton,1148,councils/sutton.csv
+Swale,swale,126,councils/swale.csv
 Swansea,swansea,1096,councils/swansea.csv
-Swindon,swindon,366,councils/swindon.csv
+Swindon,swindon,3119,councils/swindon.csv
 Tameside,tameside,589,councils/tameside.csv
 Tamworth,tamworth,903,councils/tamworth.csv
 Tandridge,tandridge,832,councils/tandridge.csv
 Teignbridge,teignbridge,270,councils/teignbridge.csv
 "Telford and Wrekin",telford-and-wrekin,824,councils/telford-and-wrekin.csv
 Tendring,tendring,935,councils/tendring.csv
-"Test Valley",test-valley,1562,councils/test-valley.csv
-"The Broads Authority",the-broads-authority,235,councils/the-broads-authority.csv
-"Three Rivers",three-rivers,144,councils/three-rivers.csv
-Thurrock,thurrock,379,councils/thurrock.csv
-"Tonbridge and Malling",tonbridge-and-malling,2086,councils/tonbridge-and-malling.csv
+"Test Valley",test-valley,1560,councils/test-valley.csv
+"The Broads Authority",the-broads-authority,237,councils/the-broads-authority.csv
+"Three Rivers",three-rivers,146,councils/three-rivers.csv
+Thurrock,thurrock,380,councils/thurrock.csv
+"Tonbridge and Malling",tonbridge-and-malling,2090,councils/tonbridge-and-malling.csv
 Torbay,torbay,801,councils/torbay.csv
 Torfaen,torfaen,906,councils/torfaen.csv
-"Tower Hamlets",tower-hamlets,152,councils/tower-hamlets.csv
-"Tunbridge Wells",tunbridge-wells,3953,councils/tunbridge-wells.csv
-Uttlesford,uttlesford,1432,councils/uttlesford.csv
+"Tower Hamlets",tower-hamlets,162,councils/tower-hamlets.csv
+"Tunbridge Wells",tunbridge-wells,3954,councils/tunbridge-wells.csv
+Uttlesford,uttlesford,1427,councils/uttlesford.csv
 "Vale of Glamorgan",vale-of-glamorgan,1120,councils/vale-of-glamorgan.csv
-"Vale of White Horse",vale-of-white-horse,1042,councils/vale-of-white-horse.csv
-Wakefield,wakefield,1484,councils/wakefield.csv
+"Vale of White Horse",vale-of-white-horse,4521,councils/vale-of-white-horse.csv
+Wakefield,wakefield,1486,councils/wakefield.csv
 Walsall,walsall,1829,councils/walsall.csv
-Warwick,warwick,972,councils/warwick.csv
-Watford,watford,12,councils/watford.csv
+Wandsworth,wandsworth,494,councils/wandsworth.csv
+Warwick,warwick,967,councils/warwick.csv
+Watford,watford,840,councils/watford.csv
 "Welwyn Hatfield",welwyn-hatfield,1117,councils/welwyn-hatfield.csv
-"West Berkshire",west-berkshire,138,councils/west-berkshire.csv
-"West Lancashire",west-lancashire,14,councils/west-lancashire.csv
+"West Berkshire",west-berkshire,140,councils/west-berkshire.csv
+"West Lancashire",west-lancashire,22,councils/west-lancashire.csv
 "West Lothian",west-lothian,523,councils/west-lothian.csv
 "West Northamptonshire",west-northamptonshire,1025,councils/west-northamptonshire.csv
-"West Oxfordshire",west-oxfordshire,1494,councils/west-oxfordshire.csv
-"West Suffolk",west-suffolk,974,councils/west-suffolk.csv
-Westminster,westminster,1426,councils/westminster.csv
-Wigan,wigan,694,councils/wigan.csv
-Wiltshire,wiltshire,1391,councils/wiltshire.csv
-Winchester,winchester,2172,councils/winchester.csv
-Woking,woking,466,councils/woking.csv
+"West Oxfordshire",west-oxfordshire,2681,councils/west-oxfordshire.csv
+"West Suffolk",west-suffolk,963,councils/west-suffolk.csv
+Westminster,westminster,1424,councils/westminster.csv
+Wigan,wigan,693,councils/wigan.csv
+Wiltshire,wiltshire,3025,councils/wiltshire.csv
+Winchester,winchester,2171,councils/winchester.csv
+Woking,woking,458,councils/woking.csv
 Wokingham,wokingham,1401,councils/wokingham.csv
-Wolverhampton,wolverhampton,101,councils/wolverhampton.csv
+Wolverhampton,wolverhampton,1097,councils/wolverhampton.csv
 Worcester,worcester,370,councils/worcester.csv
-Worthing,worthing,892,councils/worthing.csv
+Worthing,worthing,893,councils/worthing.csv
 Wrexham,wrexham,539,councils/wrexham.csv
-Wychavon,wychavon,990,councils/wychavon.csv
+Wychavon,wychavon,1077,councils/wychavon.csv
 Wyre,wyre,555,councils/wyre.csv
-York,york,153,councils/york.csv
+York,york,209,councils/york.csv
 "Yorkshire Dales National Park",yorkshire-dales-national-park,102,councils/yorkshire-dales-national-park.csv
